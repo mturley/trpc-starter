@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "scripts": {
-    "build": "npm run clean && npx tsc --noEmit",
+    "build": "npm run clean && npx tsc",
     "start": "node build/index.js",
     "build:start": "npm run build && npm run start",
     "start:dev": "nodemon",
