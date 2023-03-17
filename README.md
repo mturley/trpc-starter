@@ -1,2 +1,3 @@
 # trpc-starter
-Starter app with Node, tRPC and React
+
+A barebones starter NodeJS+React app in TypeScript using tRPC for APIs.
