@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/mturley/ts-node-starter#readme",
   "dependencies": {
-    "square": "^25.1.0"
+    "@trpc/server": "^10.16.0",
+    "square": "^25.1.0",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
