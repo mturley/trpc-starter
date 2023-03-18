@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "npm run clean && npx tsc",
-    "start": "node build/index.js",
+    "start": "node build/server.js",
     "build:start": "npm run build && npm run start",
     "start:dev": "nodemon",
     "clean": "rimraf ./build",
